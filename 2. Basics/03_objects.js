@@ -16,15 +16,15 @@ const JsUser = {
   lastLoginDays: ["Monday", "Saturday"],
 };
 
-// console.log(JsUser.email);
-// console.log(JsUser["email"]);
-// console.log(JsUser["full name"]);
-// console.log(JsUser[mySym]);
+console.log(JsUser.email);
+console.log(JsUser["email"]);
+console.log(JsUser["full name"]);
+console.log(JsUser[mySym]);
 
 JsUser.email = "abhishek@chatgpt.com";
-// Object.freeze(JsUser);
+Object.freeze(JsUser);
 JsUser.email = "abhishek@microsoft.com";
-// console.log(JsUser);
+console.log(JsUser);
 
 JsUser.greeting = function () {
   console.log("Hello Js User");
