@@ -32,5 +32,9 @@ JsUser.greeting = function () {
 JsUser.greetingTwo = function () {
   console.log(`Hello Js User, ${this.name}`);
 };
+JsUser.greetingThree = function () {
+  console.log(`Hello Js User, ${this["full name"]}`);
+};
 console.log(JsUser.greeting());
 console.log(JsUser.greetingTwo());
+console.log(JsUser.greetingThree());
