@@ -6,11 +6,14 @@ Welcome to the **JavaScript** repo! Here, I have my JavaScript explorations - co
 
 I’m currently following the <a href="https://www.youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37">Chai Aur Code</a> YouTube channel for JavaScript tutorials and insights by <a href="https://github.com/hiteshchoudhary">Hitesh Sir</a>. Feel free to check it out for additional perspectives and insights!
 
-You Can read the basic of javascript from here <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Mdn</a>
+You Can read the basic of javascript from here
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Mdn</a>
 
 <p>JavaScript is a versatile, lightweight scripting language widely used in web development. It can be utilized for both client-side and server-side development, making it essential for modern web applications. Known as the scripting language for web pages, JavaScript supports variables, data types, operators, conditional statements, loops, functions, arrays, and objects. With JavaScript, you can create dynamic, interactive, and engaging websites.</p>
 
 ### 1. Variables in JavaScript
+
+---
 
 <p>JavaScript Variables are the building blocks of any programming language. In JavaScript, variables can be used to store reusable values.</p>
 
