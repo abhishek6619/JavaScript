@@ -11,9 +11,7 @@ You Can read the basic of javascript from here
 
 <p>JavaScript is a versatile, lightweight scripting language widely used in web development. It can be utilized for both client-side and server-side development, making it essential for modern web applications. Known as the scripting language for web pages, JavaScript supports variables, data types, operators, conditional statements, loops, functions, arrays, and objects. With JavaScript, you can create dynamic, interactive, and engaging websites.</p>
 
-### 1. Variables in JavaScript
-
----
+## Variables in JavaScript
 
 <p>JavaScript Variables are the building blocks of any programming language. In JavaScript, variables can be used to store reusable values.</p>
 
@@ -38,13 +36,13 @@ You Can read the basic of javascript from here
   </tr>
 </table>
 
-```bash
-var geek = "Hello World"     // Declaration using var
-let $ = "Welcome"           // Declaration using let
-const _example = "Hello"      // Declaration using const
+```javascript
+var geek = "Hello World"; // Declaration using var
+let $ = "Welcome"; // Declaration using let
+const _example = "Hello"; // Declaration using const
 ```
 
-### 2. Data types in JavaScript
+## Data types in JavaScript
 
 <p>Data type in JavaScript defines the type of data stored in a variable.</p>
 
@@ -93,14 +91,14 @@ const _example = "Hello"      // Declaration using const
 
 An array in JavaScript is a data structure used to store multiple values in a single variable. It can hold various data types and allows for dynamic resizing. Elements are accessed by their index, starting from 0.
 
-```bash
+```javascript
 let a = [1, 2, 3, 4, 5];
 console.log(a);
 ```
 
-### Array Method
+#### **Array Method**
 
-```bash
+```javascript
 const myArr = [0, 1, 2, 3, 4, 5];
 myArr.push(6); // add new element
 myArr.push(7);
@@ -131,7 +129,7 @@ console.log("C ", myArr);
 console.log(myn2);
 ```
 
-```bash
+```javascript
 const marvel_heros = ["Thor", "IronMan", "SpiderMan"];
 const dc_heros = ["Superman", "flash", "Batman"];
 
@@ -161,5 +159,5 @@ let score2 = 200;
 let score3 = 300;
 
 console.log(Array.of(score1, score2, score3));
-
 ```
+

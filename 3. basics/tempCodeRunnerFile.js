@@ -1,4 +1,0 @@
-
-//     const element = array[i];
-    
-// }
