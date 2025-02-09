@@ -7,5 +7,8 @@ const user = {
   },
 };
 
+// user.welcomeMessage();
+// user.welcomeMessage = "Sam";
+// user.welcomeMessage();
 
-user.welcomeMessage
+console.log(this);
